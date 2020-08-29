@@ -11,34 +11,48 @@ I am a graduate student in the programme of Master of Applied Science (M.A.Sc.) 
 
 <br/>
 
-<table>
+<div>
+<table id="tblOne" style="width:50%; float:left">
   <tr>
-    <td>**Interests**</td>
-    <td></td>
-    <td>**Education**</td>
+    <td><strong>Education</strong></td>
   </tr>
   <tr>
-    <td>100</td>
-    <td>200</td>
-    <td>* M.A.Sc. degree in Electrical and Computer Engineering, 2019 - current  
-  <p style="color:grey">McMaster University, Canada</p>
-  </td>
+    <td><span>&#8226;</span>	M.A.Sc. degree in Electrical and Computer Engineering, 2019 - current  
+  	<br><p style="color:grey">McMaster University, Canada</p>
+    </td>
   </tr>
   <tr>
-    <td>400</td>
-    <td>500</td>
-    <td>600</td>
+    <td><span>&#8226;</span> B.E. degree in Electrical and Computer Engineering, 2014 - 2019  
+  	<br><p style="color:grey">McMaster University, Canada</p>
+    </td>
   </tr>
 </table>
 
+<table id="tblTwo" style="width:50%; float:left">
+  <tr>
+    <td><strong>Interests</strong></td>
+  </tr>
+  <tr>
+    <td><span>&#8226;</span> Computer Vision</td>
+  </tr>
+  <tr>
+    <td><span>&#8226;</span> Deep Learning</td>
+  </tr>
+    <tr>
+    <td><span>&#8226;</span> Machine Learning</td>
+  </tr>
+</table>
+</div>
 
+**Interests**
 * Computer Vision
 * Deep Learning
 * Machine Learning
 
 <br/>
 
-
-
+**Education**
+* M.A.Sc. degree in Electrical and Computer Engineering, 2019 - current  
+  <p style="color:grey">McMaster University, Canada</p>
 * B.E. degree in Electrical and Computer Engineering, 2014 - 2019  
   <p style="color:grey">McMaster University, Canada</p>
