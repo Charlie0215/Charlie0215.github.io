@@ -20,7 +20,7 @@ I am a graduate student in the programme of Master of Applied Science (MASc) of 
 <br/>
 
 **Education**
-* M.A.Sc. degree in Electrical and Computer Engineering, 2019 - current
+* M.A.Sc. degree in Electrical and Computer Engineering, 2019 - current  
   McMaster University, Canada
-* B.E. degree in Electrical and Computer Engineering, 2014 - 2019
+* B.E. degree in Electrical and Computer Engineering, 2014 - 2019  
   McMaster University, Canada
