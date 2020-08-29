@@ -7,10 +7,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Experience"
-    url: /Experience/
+  # - title: "Experience"
+  #   url: /Experience/
 
-  - title: "Achievements"
+  - title: "Projects & Achievements"
     url: /Achievements/
 
   # - title: "Talks"
@@ -25,8 +25,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
