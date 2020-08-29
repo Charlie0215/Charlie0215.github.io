@@ -12,8 +12,6 @@ I am a graduate student in the programme of Master of Applied Science (MASc) of 
 
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|-----------------------------|
-|=============================|
 | Foot1   | Foot2   | Foot3   |
 
 **Interests**
@@ -21,9 +19,9 @@ I am a graduate student in the programme of Master of Applied Science (MASc) of 
 * Deep Learning
 * Machine Learning
 
+
 **Education**
 * M.A.Sc. degree in Electrical and Computer Engineering, 2019 - current \\
   McMaster University, Canada
-
 * B.E. degree in Electrical and Computer Engineering, 2014 - 2019 \\
   McMaster University, Canada
