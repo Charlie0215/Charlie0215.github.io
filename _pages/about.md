@@ -9,19 +9,15 @@ redirect_from:
 ---
 I am a graduate student in the programme of Master of Applied Science (MASc) of Electrical and Computer Engineering at McMaster University supervised by Dr. Jun Chen. I am an enthusiast of deep learning and computer vision with research area centers on low-level vision, segmentation, and image matting.
 
-
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-| Foot1   | Foot2   | Foot3   |
-
 **Interests**
 * Computer Vision
 * Deep Learning
 * Machine Learning
 
+<br/>
 
 **Education**
-* M.A.Sc. degree in Electrical and Computer Engineering, 2019 - current \\
+* M.A.Sc. degree in Electrical and Computer Engineering, 2019 - current
   McMaster University, Canada
-* B.E. degree in Electrical and Computer Engineering, 2014 - 2019 \\
+* B.E. degree in Electrical and Computer Engineering, 2014 - 2019
   McMaster University, Canada
