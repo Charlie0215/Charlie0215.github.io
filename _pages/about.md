@@ -21,6 +21,6 @@ I am a graduate student in the programme of Master of Applied Science (M.A.Sc.) 
 
 **Education**
 * M.A.Sc. degree in Electrical and Computer Engineering, 2019 - current  
-  McMaster University, Canada
+  <p style="color:grey">McMaster University, Canada</p>
 * B.E. degree in Electrical and Computer Engineering, 2014 - 2019  
-  <p style="color:blue">McMaster University, Canada</p>
+  <p style="color:grey">McMaster University, Canada</p>
