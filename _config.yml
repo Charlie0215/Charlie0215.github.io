@@ -84,7 +84,7 @@ author:
   name             : "Linhui (Charlie) Dai"
   avatar           : "profile.png"
   bio              : "Research student at McMaster Univerity with research interest centers on deep learning, low-level Vision, classification, and matting."
-  location         : "1280 Main St West, Hamilton"
+  location         : "Canada"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -104,10 +104,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "charlie-linhui-dai-978359125/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "replacethistwitterhandle"
