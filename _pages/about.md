@@ -16,7 +16,7 @@ I am a graduate student in the programme of Master of Applied Science (MASc) of 
 **Interests**
 * Computer Vision
 * Deep Learning
-* Machine Learning
+* Machine Learning \\
 
 **Education**
 * M.A.Sc. degree in Electrical and Computer Engineering, 2019 - current \\
