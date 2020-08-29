@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme: minimal-mistakes-jekyll
+
 locale                   : "en-US"
 title                    : "Linhui (Charlie) Dai"
 title_separator          : "-"
@@ -103,7 +103,7 @@ author:
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/charlie-linhui-dai-978359125"
+  linkedin         : "https://www.linkedin.com/in/charlie-linhui-dai-978359125/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
