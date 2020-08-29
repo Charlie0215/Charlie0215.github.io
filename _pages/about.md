@@ -12,11 +12,6 @@ I am a graduate student in the programme of Master of Applied Science (MASc) of 
 
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
 
 **Interests**
 * Computer Vision
