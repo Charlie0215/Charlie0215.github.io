@@ -11,16 +11,34 @@ I am a graduate student in the programme of Master of Applied Science (M.A.Sc.) 
 
 <br/>
 
+<table>
+  <tr>
+    <td>**Interests**</td>
+    <td></td>
+    <td>**Education**</td>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>200</td>
+    <td>* M.A.Sc. degree in Electrical and Computer Engineering, 2019 - current  
+  <p style="color:grey">McMaster University, Canada</p>
+  </td>
+  </tr>
+  <tr>
+    <td>400</td>
+    <td>500</td>
+    <td>600</td>
+  </tr>
+</table>
 
-**Interests**
+
 * Computer Vision
 * Deep Learning
 * Machine Learning
 
 <br/>
 
-**Education**
-* M.A.Sc. degree in Electrical and Computer Engineering, 2019 - current  
-  <p style="color:grey">McMaster University, Canada</p>
+
+
 * B.E. degree in Electrical and Computer Engineering, 2014 - 2019  
   <p style="color:grey">McMaster University, Canada</p>
