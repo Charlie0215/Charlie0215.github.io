@@ -1,16 +1,20 @@
 ---
-title: "Video Interpolation via Generalized Deformable Convolution"
+title: "AWNet: Attentive Wavelet Netwoek for Image ISP"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-2
-date: 2020-8-24
-venue: 'arxiv.org'
-# paperurl: '/GDC/'
+permalink: /publication/2009-10-01-paper-title-number-1
+date: 2020-8-20
+venue: 'ECCV Workshop'
+# paperurl: '/AWNet/'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-### Authors: Zhihao Shi, Xiaohong Liu, Kangdi Shi, Linhui Dai, Jun Chen
+### Authors: Linhui Dai, Xiaohong Liu, Chengqi Li, Jun Chen
+[[PDF](https://arxiv.org/abs/2008.09228)]   [[Code](https://github.com/Charlie0215/AIM2020.git)]
 
-[[PDF](https://arxiv.org/abs/2008.10680)]
+<img src="awnet.png" alt="awnet">
 
 ### Abstract
-Video interpolation aims at increasing the frame rate of a given video by synthesizing intermediate frames. The existing video interpolation methods can be roughly divided into two categories: flow-based methods and kernel-based methods. The performance of flow-based methods is often jeopardized by the inaccuracy of flow map estimation due to oversimplified motion models while that of kernel-based methods tends to be constrained by the rigidity of kernel shape. To address these performance-limiting issues, a novel mechanism named generalized deformable convolution is proposed, which can effectively learn motion information in a data-driven manner and freely select sampling points in space-time. We further develop a new video interpolation method based on this mechanism. Our extensive experiments demonstrate that the new method performs favorably against the state-of-the-art, especially when dealing with complex motions.
+As the revolutionary improvement being made on the performance of smartphones over the last decade, mobile photography becomes one of the most common practices among the majority of smartphone users. However, due to the limited size of camera sensors on phone, the photographed image is still visually distinct to the one taken by the digital single-lens reflex (DSLR) camera. To narrow this performance gap, one is to redesign the camera image signal processor (ISP) to improve the image quality. Owing to the rapid rise of deep learning, recent works resort to the deep convolutional neural network (CNN) to develop a sophisticated data-driven ISP that directly maps the phone-captured image to the DSLR-captured one. In this paper, we introduce a novel network that utilizes the attention mechanism and wavelet transform, dubbed AWNet, to tackle this learnable image ISP problem. By adding the wavelet transform, our proposed method enables us to restore favorable image details from RAW information and achieve a larger receptive field while remaining high efficiency in terms of computational cost. The global context block is adopted in our method to learn the non-local color mapping for the generation of appealing RGB images. More importantly, this block alleviates the influence of image misalignment occurred on the provided dataset. Experimental results indicate the advances of our design in both qualitative and quantitative measurements.
+
+
+
 
