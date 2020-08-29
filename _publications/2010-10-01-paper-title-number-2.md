@@ -9,5 +9,5 @@ venue: 'arxiv.org'
 ---
 Zhihao Shi, Xiaohong Liu, Kangdi Shi, Linhui Dai, Jun Chen
 
-[PDF](https://arxiv.org/abs/2008.10680)
+[[PDF](https://arxiv.org/abs/2008.10680)]
 
