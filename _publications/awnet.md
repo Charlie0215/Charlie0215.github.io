@@ -7,7 +7,7 @@ venue: 'ECCV Workshop'
 # paperurl: '/AWNet/'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-**Authors**: **Linhui Dai**, Xiaohong Liu, Chengqi Li, Jun Chen
+**Authors**: **Linhui Dai**, Xiaohong Liu, Chengqi Li, Jun Chen  
 [[PDF](https://arxiv.org/abs/2008.09228)]   [[Code](https://github.com/Charlie0215/AIM2020.git)]
 
 <img src="awnet.png" alt="awnet">
