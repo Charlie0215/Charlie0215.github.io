@@ -8,7 +8,7 @@ venue: 'ECCV Workshop'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 **Authors**: **Linhui Dai**, Xiaohong Liu, Chengqi Li, Jun Chen  
-[[PDF](https://arxiv.org/abs/2008.09228)]   [[Code](https://github.com/Charlie0215/AIM2020.git)] [[Supplymentary Material](https://drive.google.com/file/d/1QrzV0ly0ERpZCavY1Uw8JG_qSQvd0SGI/view?usp=sharing)]
+[[PDF](https://arxiv.org/abs/2008.09228)]   [[Code](https://github.com/Charlie0215/AWNet-Attentive-Wavelet-Network-for-Image-ISP.git)] [[Supplymentary Material](https://drive.google.com/file/d/1QrzV0ly0ERpZCavY1Uw8JG_qSQvd0SGI/view?usp=sharing)]
 
 <!-- <img src="/images/awnet.png" alt="awnet"> -->
 
