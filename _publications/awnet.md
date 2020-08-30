@@ -1,5 +1,5 @@
 ---
-title: "AWNet: Attentive Wavelet Netwoek for Image ISP"
+title: "AWNet: Attentive Wavelet Network for Image ISP"
 collection: publications
 permalink: /publication/awnet
 date: 2020-8-20
